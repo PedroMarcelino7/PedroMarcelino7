@@ -34,5 +34,5 @@
 
 ##
 
-![](https://github-readme-stats.vercel.app/api?username=PedroMarcelino7&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=PedroMarcelino7&theme=dark&hide_border=true&include_all_commits=false&count_private=false) -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PedroMarcelino7&theme=dark&hide_border=true)<br/>
