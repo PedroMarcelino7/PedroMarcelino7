@@ -1,4 +1,4 @@
-## Olá, seja bem vindo(a) ao meu perfil 🙂
+## Web Developer | JavaScript - React - Node
 
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk#skills -->
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
